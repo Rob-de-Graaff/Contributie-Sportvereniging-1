@@ -1,0 +1,10 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\bin\Debug\Sportvereniging.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\bin\Debug\Sportvereniging.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\bin\Debug\Sportvereniging.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 27 Contributie Sportvereniging (1)\Sportvereniging\Sportvereniging\obj\Debug\Sportvereniging.pdb
